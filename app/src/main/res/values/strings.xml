@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">DoctorAppontment</string>
+    <string name="title_activity_appointment_time">AppointmentTime</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="title_activity_appointment_time_table">AppointmentTimeTable</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="date_label_set">Press the button to set the date</string>
+    <string name="date_button_set">Set Date</string>
+    <string name="date_view_set">The Date is: </string>
+    <string name="date_selected"></string>
+</resources>
